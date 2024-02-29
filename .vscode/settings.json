@@ -1,5 +1,7 @@
 {
   "search.exclude": {
     "**/.sst": true
-  }
+  },
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2
 }
